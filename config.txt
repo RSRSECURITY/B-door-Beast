@@ -1,2 +1,2 @@
-192.168.29.77:4444::BeastUnleashed2025!@#Secure
-192.168.29.238:4444::BeastUnleashed2025!@#Secure
+192.168.x.x:4444::BeastUnleashed2025!@#Secure
+192.168.x.x:4444::BeastUnleashed2025!@#Secure
