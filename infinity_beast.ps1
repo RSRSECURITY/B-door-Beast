@@ -76,8 +76,8 @@ function Connect {
     $client = $null
     $rand = New-Object Random
     $servers = @(
-        @{ IP = '192.168.29.238'; Port = 4444; Key = $defaultKey; Name = 'Mobile' },  # Your mobile IP
-        @{ IP = '192.168.29.77'; Port = 4444; Key = $defaultKey; Name = 'Laptop' }    # Your laptop IP
+        @{ IP = '192.168.x.x'; Port = 4444; Key = $defaultKey; Name = 'Mobile' },  # Your mobile IP
+        @{ IP = '192.168.x.x'; Port = 4444; Key = $defaultKey; Name = 'Laptop' }    # Your laptop IP
     )
     while ($true) {
         try {
